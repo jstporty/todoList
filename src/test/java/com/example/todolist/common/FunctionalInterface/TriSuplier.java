@@ -1,4 +1,4 @@
-package com.example.todolist.common;
+package com.example.todolist.common.FunctionalInterface;
 
 @FunctionalInterface
 public interface TriSuplier<T,U,V,R> {

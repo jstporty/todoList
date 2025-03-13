@@ -1,4 +1,4 @@
-package com.example.todolist.common;
+package com.example.todolist.common.FunctionalInterface;
 
 
 import org.junit.jupiter.api.DisplayName;

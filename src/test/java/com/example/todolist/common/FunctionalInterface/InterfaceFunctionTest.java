@@ -1,4 +1,4 @@
-package com.example.todolist.common;
+package com.example.todolist.common.FunctionalInterface;
 
 import static java.lang.String.valueOf;
 
@@ -10,12 +10,9 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
 import java.util.function.UnaryOperator;
-import jdk.swing.interop.SwingInterOpUtils;
-import net.minidev.json.JSONUtil;
 import org.assertj.core.util.TriFunction;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.mockito.internal.util.reflection.GenericMetadataSupport.BoundedType;
 
 public class InterfaceFunctionTest {
 
